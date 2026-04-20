@@ -6,7 +6,7 @@
   <br><br>
 
   <h3>
-    ⬇️ <a href="https://github.com/nauticsoftware/NauticPlayer-Releases/releases/download/v1.0.0/NauticPlayer_v1.0.dmg">Download Latest Version (.dmg)</a>
+    ⬇️ <a href="https://github.com/nauticsoftware/NauticPlayer-Releases/releases/download/v1.1/NauticPlayer_v1.1.dmg">Download Latest Version (.dmg)</a>
   </h3>
   </h3>
   <br>
