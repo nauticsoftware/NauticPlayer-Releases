@@ -8,7 +8,7 @@
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.7</sparkle:minimumSystemVersion>
-            <enclosure url="NauticPlayer_v1.1.dmg" length="6608240" type="application/octet-stream"/>
+            <enclosure url="https://github.com/nauticsoftware/NauticPlayer-Releases/releases/download/v1.1.0/NauticPlayer_v1.1.dmg" length="6608240" type="application/octet-stream" sparkle:edSignature="tSke8iXvYCE6IOmgxYCFubQ5ICHDrZaLKBxzz/7N29au8x5uL2ZDs0npfrhYqFPY+PB3vS880OgQ2ps9YXHgCQ==" />
         </item>
     </channel>
 </rss>
