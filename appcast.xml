@@ -1,14 +1,40 @@
-<?xml version="1.0" standalone="yes"?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
-        <title>NauticPlayer</title>
+        <title>NauticPlayer Releases</title>
+        <link>https://github.com/nauticsoftware/NauticPlayer-Releases</link>
+        <description>NauticPlayer — Actualizaciones oficiales</description>
+        <language>es</language>
+
         <item>
-            <title>1.1</title>
-            <pubDate>Mon, 20 Apr 2026 15:08:16 -0300</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <title>NauticPlayer 1.2</title>
+            <pubDate>Mon, 27 Apr 2026 12:00:00 +0000</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.7</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/nauticsoftware/NauticPlayer-Releases/releases/download/v1.1/NauticPlayer_v1.1.dmg" length="6608240" type="application/octet-stream" sparkle:edSignature="tSke8iXvYCE6IOmgxYCFubQ5ICHDrZaLKBxzz/7N29au8x5uL2ZDs0npfrhYqFPY+PB3vS880OgQ2ps9YXHgCQ==" />
+            <sparkle:releaseNotesLink>https://nauticboy.xyz</sparkle:releaseNotesLink>
+            <enclosure
+                url="https://github.com/nauticsoftware/NauticPlayer-Releases/releases/download/v1.2/NauticPlayer_v1.2.dmg"
+                sparkle:edSignature="B1Gyj+IIIPxtYzW9fFDQCg001sEmumif+rDoQYUBx0B5VXI6/j4X/ZNtczZH1yqUzvC89u/+eN0KwaX7AO7zAw=="
+                length="7400631"
+                type="application/octet-stream"
+            />
         </item>
+
+        <item>
+            <title>NauticPlayer 1.0</title>
+            <pubDate>Fri, 18 Apr 2026 00:00:00 +0000</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.7</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/nauticsoftware/NauticPlayer-Releases/main/release-notes/1.0.html</sparkle:releaseNotesLink>
+            <enclosure
+                url="https://github.com/nauticsoftware/NauticPlayer-Releases/releases/download/v1.0/NauticPlayer-1.0.dmg"
+                sparkle:edSignature="PLACEHOLDER_SIGNATURE_REPLACE_AFTER_NOTARIZATION"
+                length="0"
+                type="application/octet-stream"
+            />
+        </item>
+
     </channel>
 </rss>
