@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://github.com/nauticstudio/nauticplayer/blob/main/public/captures/player-bl.png?raw=true" alt="NauticPlayer Preview" width="600">
+  <img src="https://player.nauticstudio.xyz/captures/player-wt.webp" alt="NauticPlayer Preview" width="600">
 
   # 🚀 NauticPlayer for macOS
   **The ultra-minimalist local audio player built around the waveform.**
   <br><br>
 
   <h3>
-    ⬇️ <a href="https://github.com/nauticsoftware/NauticPlayer-Releases/releases/download/v1.0.0/NauticPlayer_v1.0.dmg">Download Latest Version (.dmg)</a>
+    ⬇️ <a href="https://github.com/nauticsoftware/NauticPlayer-Releases/releases/download/v1.2/NauticPlayer_v1.2.dmg">Download Latest Version (.dmg)</a>
   </h3>
   </h3>
   <br>
