@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://player.nauticstudio.xyz/icons/np_128x128.png" alt="NauticPlayer Preview" width="600">
+  <img src="https://player.nauticstudio.xyz/icons/np_64x64.png" alt="NauticPlayer Preview" width="600">
 
   # 🚀 NauticPlayer for macOS
   **The ultra-minimalist local audio player built around the waveform.**
