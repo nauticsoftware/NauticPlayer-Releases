@@ -7,6 +7,21 @@
         <language>es</language>
 
         <item>
+            <title>NauticPlayer 1.2</title>
+            <pubDate>Mon, 27 Apr 2026 12:00:00 +0000</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.7</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://nauticboy.xyz</sparkle:releaseNotesLink>
+            <enclosure
+                url="https://github.com/nauticsoftware/NauticPlayer-Releases/releases/download/v1.2/NauticPlayer_v1.2.dmg"
+                sparkle:edSignature="B1Gyj+IIIPxtYzW9fFDQCg001sEmumif+rDoQYUBx0B5VXI6/j4X/ZNtczZH1yqUzvC89u/+eN0KwaX7AO7zAw=="
+                length="7400631"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>NauticPlayer 1.0</title>
             <pubDate>Fri, 18 Apr 2026 00:00:00 +0000</pubDate>
             <sparkle:version>1</sparkle:version>
